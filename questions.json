@@ -1,0 +1,266 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": " The <span style='background-color: yellow;'>Mona Lisa </span> is a famous <span style='background-color: yellow;'> painting </span> by <span style='background-color:yellow;'>  Leonardo da Vinci.</span>",
+      "options": [
+        "Mona Lisa, Leonardo da Vinci: Common noun; painting: proper noun",
+        "Mona Lisa, Leonardo da Vinci: Proper noun; painting: common noun",
+        "Mona Lisa, Leonardo da Vinci: Uncountable noun; painting: common noun",
+        "Mona Lisa, Leonardo da Vinci: countable noun; painting: uncountable noun"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2.",
+      "question": " The <span style='background-color: yellow;'> jury </span> reached a unanimous decision after hours of deliberation.",
+      "options": [
+        "Common noun",
+        "Abstract noun",
+        "Collective noun",
+        "Proper noun"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q3.",
+      "question": "  Steel is widely used in construction due to its <span style='background-color: yellow;'> strength </span> and durability.",
+      "options": [
+        "Abstract noun",
+        "Common noun",
+        "Uncountable noun",
+        "Concrete noun"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q4.",
+      "question": "Mary created an <span style='background-color: yellow;'> impression </span> on Mr. Chia by completing all the questions ahead of time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q5.",
+      "question": " The <span style='background-color: yellow;'> chef </span> used fresh <span style='background-color: yellow;'> ingredients </span> to prepare the gourmet meal.",
+      "options": [
+        "Proper noun",
+        "Collective noun",
+        "Uncountable noun",
+        "Common noun"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q6.",
+      "question": "The <span style='background-color: yellow;'> artist </span> used various types of paint to create her <span style='background-color: yellow;'> masterpiece</span>. ",
+      "options": [
+        "Common noun",
+        "Proper noun",
+        "Collective noun",
+        "Abstract noun"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q7.",
+      "question": " Their teamwork was like a <span style='background-color: yellow;'> symphony</span>, each member playing their part to perfection.",
+      "options": [
+        "Abstract noun",
+        "Common noun",
+        "Uncountable noun",
+        "Material noun"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q8.",
+      "question": " He collected antique <span style='background-color: yellow;'> coins </span> from various countries as a hobby. ",
+      "options": [
+        "Uncountable noun",
+        "Material noun",
+        "Concrete noun",
+        "Proper noun"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q9.",
+      "question": " The <span style='background-color: yellow;'> museum </span> displayed several ancient <span style='background-color: yellow;'> artifacts </span> found during the excavation.",
+      "options": [
+        "Material noun",
+        "Proper noun",
+        "Countable noun",
+        "Abstract noun"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "She expressed her  <span style='background-color: yellow;'>gratitude </span> with a touch of elegance in her speech.",
+      "options": [
+        "Common noun",
+        "Abstract noun",
+        "Material noun",
+        "Concrete noun"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q11.",
+      "question": " Find a suitable word and use it to complete the given sentences. Indonesia is the world’s largest ………………. of islands",
+      "options": [
+        "Chain",
+        "galaxy",
+        "Hive",
+        "Audience"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q12.",
+      "question": " Mother gave me a ………………. of pearls on my birthday.",
+      "options": [
+        "Shoal",
+        "Pod",
+        "String",
+        "Fleet"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q13.",
+      "question": " David faced a pack of ferocious hounds with ………… on Sunday.",
+      "options": [
+        "Courage",
+        "Freedom",
+        "Love",
+        "Passion"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q14.",
+      "question": "  The spectators saw the entire production on a huge <span style='background-color: yellow;'> monitor</span>.",
+      "options": [
+        "Abstract noun",
+        "Concrete noun"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q15.",
+      "question": "A <span style='background-color: yellow;'> flock </span> of birds flew overhead, their synchronized movements resembling a graceful dance in the sky.",
+      "options": [
+        "Countable noun",
+        "Collective noun"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "Find a suitable noun for the underlined word.<br>Angel is very <u> brave</u>. Her__________ changed the lives of many.",
+      "options": [
+        "bravery",
+        "bravest",
+        "braver"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q17.",
+      "question": " The <span style='background-color:yellow;'>  mountaineers </span> braved the treacherous terrain, relying on their  equipment.",
+      "options": [
+        "Proper noun",
+        "Common noun",
+        "Concrete noun",
+        "Uncountable"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q18.",
+      "question": " Read the given sentences, identify the noun and state its kind.<br>The scientist poured a drop of the solution into the beaker, observing its reaction.",
+      "options": [
+        "beaker - common noun",
+        "solution- common noun",
+        "Scientist - Common noun",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q19.",
+      "question": " <b> The poet's verses captured the essence of love,weaving together emotions that resonated deeply with readers.</b> <br> Emotion in the above sentence is an:",
+      "options": [
+        "Concrete noun",
+        "Countable noun",
+        "Abstract Noun",
+        "None of the above"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q20.",
+      "question": " <b> The architect designed the skyscraper, ensuring that every steel beam and glass panel contributed to its stunning appearance.</b> <br>Architect in the above sentence is an:",
+      "options": [
+        "Common Noun",
+        "Proper Noun",
+        "Concrete Noun",
+        "None of the above"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q21.",
+      "question": "<b> The committee deliberated for hours, each member offering a unique perspective on how to address the pressing issue.</b><br>Hours in the above sentence is an:",
+      "options": [
+        "Concrete Noun",
+        "Proper Noun",
+        "Countable Noun",
+        "None of the above"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q22.",
+      "question": "<b> James is a bright student, pursuing a Master's degree from Trinity College London.</b> <br> Trinity College London in the above sentence is an:",
+      "options": [
+        "Proper Noun",
+        "Improper Noun",
+        "Countable Noun",
+        "Selective Noun"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q23.",
+      "question": " <b> The software developer debugged the program, analysing each line of code to fix errors.</b> <br>Errors in the above sentence is:",
+      "options": [
+        "A common Noun",
+        "An abstract Noun",
+        "A countable Noun",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q24.",
+      "question": "I’m going to snuggle under a warm blanket on the couch <br><b>Blanket</b> in the above sentence is both a common noun as well as a concrete noun.",
+      "options":[
+        "True",
+        "False"
+      ],
+      "correct":0
+    },
+    {
+        "questionNo": "Q25.",
+      "question": "They launched a campaign about environmental issues to increase public awareness. <br> <b>Awareness </b> is an abstract noun in the above sentence.",
+      "options":[
+        "True",
+        "False"
+      ],
+      "correct":0
+    }
+]  
